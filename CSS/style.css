@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+.btn-primary {
+  background-color: red;
+}
+
+.bi.bi-bell {
+  font-size: 40px;
+  color: green;
+  margin: 20px;
+}
